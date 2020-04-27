@@ -48,3 +48,10 @@ npm-debug.log.*
 *.css.d.ts
 *.sass.d.ts
 *.scss.d.ts
+
+# Editor settings
+.vscode
+
+# Documentation directories
+docs/_build
+docs/__pycache__
