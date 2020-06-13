@@ -1,6 +1,6 @@
 # conLanguagizer
 
-A digital binder for you constructed language. Keep track of your conlang's phonology, orthography, and word definitions with a dictionary. Organize the rules of your language in the grammar. You can define them using the [regular expression](https://en.wikipedia.org/wiki/Regular_expression) method or the more human readable cLa syntax. conLanguagizer can then apply the grammar to one or more words in the dictionary so you don't have to conjugate yourself!
+A digital binder for your constructed language. Keep track of your conlang's phonology, orthography, and word definitions with a dictionary. Organize the rules of your language in the grammar. You can define them using the [regular expression](https://en.wikipedia.org/wiki/Regular_expression) method or the more human readable cLa syntax. conLanguagizer can then apply the grammar to one or more words in the dictionary so you don't have to conjugate yourself!
 
 ## Getting Started
 
