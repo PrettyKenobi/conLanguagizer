@@ -28,13 +28,11 @@ community include:
 
 * Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
 
-* Focusing on what is best not just for us as individuals, but for the
-overall community
+* Focusing on what is best not just for us as individuals, but for the overall community
 
 Examples of unacceptable behavior include:
 
-* The use of sexualized language or imagery, and sexual attention or
-advances of any kind
+* The use of sexualized language or imagery, and sexual attention or advances of any kind
 
 * Trolling, insulting or derogatory comments, and personal or political attacks
 

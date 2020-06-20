@@ -9,72 +9,98 @@ Creation and expansion of code should be document-driven-development_ first, fol
 Dictionary
 ~~~~~~~~~~
 
-- Document
+* Document
 
-  - Phonology using IPA_
-  - Able to include language's orthography
+  * Phonology using IPA_
 
-    - User can define their language's version of alphabetical-order
+  * Able to include language's orthography
 
-  - Word pronunciation, definitions, and their part of speech
+    * User can define their language's version of alphabetical-order
 
-    - Written in language's orthography if applicable
-    - Pronunciation in IPA_ or latin alphabet
+  * Word pronunciation, definitions, and their part of speech
 
-- Search based on
+    * Written in language's orthography if applicable
 
-  - Definition
-  - Pronunciation
-  - Part of speech
+    * Pronunciation in IPA_ or latin alphabet
 
-- Display added words in some sort of table or list
+* Search based on
 
-- Can change sort order of search and word list
+  * Definition
 
-    - Alphabetical order from pronunciation
-    - Alphabetical order from definition
-    - User-defined alphabetical order
-    - Part of speech
+  * Pronunciation
+
+  * Part of speech
+
+* Display added words in some sort of table or list
+
+* Can change sort order of search and word list
+
+  * Alphabetical order from pronunciation
+
+  * Alphabetical order from definition
+
+  * User-defined alphabetical order
+
+  * Part of speech
 
 Grammar
 ~~~~~~~
 
-- Define language's grammar rules using
+* Define language's grammar rules using
 
-  - Regex
-  - Human-readable syntax
+  * Regex
 
-- Searchable
+  * Human-readable syntax
 
-- Created rules displayed in user-defined order
+* Searchable
+
+* Created rules displayed in user-defined order
+
+  * Nestable
+
+* Apply rules to an entire passage to conjugate
 
 Tutorials
 ~~~~~~~~~
 
-- How to use program's features
+* How to use program's features
 
-- Basic linguistic concepts used in making conLangs
+* Basic linguistic concepts used in making conLangs
 
 Features for Demo
 -----------------
 
-Dictionary
-~~~~~~~~~~
+Dictionary Demo
+~~~~~~~~~~~~~~~~
 
-- Phonology
-- Word definitions
-- Word pronunciation
+* Phonology
 
-  - In IPA and/or English
+* Word definitions
 
-- What part of speech a word belongs to
+* Word pronunciation
 
-- Search by definition or pronunciation
+  * In IPA and/or English
 
-Grammar
-~~~~~~~
+* What part of speech a word belongs to
 
+* Search by definition or pronunciation
 
+Grammar Demo
+~~~~~~~~~~~~
+
+* Define rules using Regex
+
+* Each rule has a unique, user-defined name
+
+* User-defined sort order for displaying rules
+
+  * Drag and drop
+
+  * Nestable
+
+  * Other?
+
+* Able to apply a selected rule to a word defined in the language's dictionary
 
 .. _document-driven-development: https://gist.github.com/zsup/9434452
 .. _test-driven-development: https://www.agilealliance.org/glossary/tdd/#q=~(infinite~false~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'tdd))~searchTerm~'~sort~false~sortDirection~'asc~page~1)
