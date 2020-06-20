@@ -9,8 +9,8 @@ This is a Node.js_ framework_ that includes many popular packages.
   Describe React Native
   Look up what other important packages it uses
 
-How to Start Contributing
--------------------------
+How to Start
+------------
 .. Link to contribution page, maybe summarize it
   Describe how to use yarn
 
