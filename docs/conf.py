@@ -10,24 +10,24 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 
-import os
-import sys
-sys.path.insert(0, os.path.abspath('.'))
+# import os
+# import sys
+# sys.path.insert(0, os.path.abspath('.'))
 
-on_rtd = os.environ.get('READTHEDOCS') == 'True'
-if on_rtd:
-    plantuml = 'java -Djava.awt.headless=true -jar /usr/share/plantuml/plantuml.jar'
-else:
-    cwd = os.getcwd()
-    plantuml = 'java -jar %s' % os.path.join(cwd, "utils/plantuml_beta.jar")
+# on_rtd = os.environ.get('READTHEDOCS') == 'True'
+# if on_rtd:
+#     plantuml = 'java -Djava.awt.headless=true -jar /usr/share/plantuml/plantuml.jar'
+# else:
+#     cwd = os.getcwd()
+#     plantuml = 'java -jar %s' % os.path.join(cwd, "utils/plantuml_beta.jar")
 
-# If we are running on windows, we need to manipulate the path,
-# otherwise plantuml will have problems.
-if os.name == "nt":
-    plantuml = plantuml.replace("/", "\\")
-    plantuml = plantuml.replace("\\", "\\\\")
+# # If we are running on windows, we need to manipulate the path,
+# # otherwise plantuml will have problems.
+# if os.name == "nt":
+#     plantuml = plantuml.replace("/", "\\")
+#     plantuml = plantuml.replace("\\", "\\\\")
 
-plantuml_output_format = 'png'
+# plantuml_output_format = 'png'
 
 
 # -- Project information -----------------------------------------------------
@@ -58,6 +58,9 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # Suffix(es) for source file names
 source_suffix = ['.rst', '.md']
+
+# Which version of sphinx to use
+needs_sphinx = '3.1'
 
 
 # -- Options for HTML output -------------------------------------------------
