@@ -49,9 +49,11 @@ npm-debug.log.*
 *.sass.d.ts
 *.scss.d.ts
 
-# Editor settings
-.vscode
-
 # Documentation directories
 docs/_build
 docs/__pycache__
+
+# Python virtual environment for Read the Docs
+docs/env
+
+vagrant/.vagrant/*

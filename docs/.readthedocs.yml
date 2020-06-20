@@ -1,0 +1,10 @@
+# Read the Docs config file
+
+version: 2
+
+# Build docs in the docs/ directory using Sphinx
+sphinx:
+  configuration: docs/conf.py
+
+# Which file formats to build
+formats: all

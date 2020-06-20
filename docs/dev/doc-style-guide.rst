@@ -27,7 +27,7 @@ Sections
 Lists
 ~~~~~
 
-For bulleted lists, use "``-``" for each item.
+For bulleted lists, use "``*``" for each item.
 
 The order to use for enumerated lists is as follows
 
