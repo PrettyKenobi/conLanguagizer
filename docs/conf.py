@@ -44,7 +44,7 @@ author = 'Ken Bonnstetter'
 # ones.
 extensions = [
   # 'sphinxcontrib.autojs',
-  'sphinxcontrib.plantuml',
+  # 'sphinxcontrib.plantuml',
   'sphinxcontrib.needs'
 ]
 
