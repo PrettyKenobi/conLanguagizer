@@ -27,7 +27,7 @@ Dictionary
   - Pronunciation
   - Part of speech
 
-- Display added words in something like a table
+- Display added words in some sort of table or list
 
 - Can change sort order of search and word list
 
@@ -45,12 +45,14 @@ Grammar
   - Human-readable syntax
 
 - Searchable
+
 - Created rules displayed in user-defined order
 
 Tutorials
 ~~~~~~~~~
 
 - How to use program's features
+
 - Basic linguistic concepts used in making conLangs
 
 Features for Demo
