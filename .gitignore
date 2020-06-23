@@ -49,7 +49,7 @@ npm-debug.log.*
 *.sass.d.ts
 *.scss.d.ts
 
-# Documentation directories
+# Documentation directories created when running sphinx
 docs/_build
 docs/__pycache__
 
