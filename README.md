@@ -51,7 +51,7 @@ TODO
 
 ## License
 
-MIT - _See [LICENSE.md] for details_
+MIT - _See [LICENSE] for details_
 
 ## Acknowledgements
 

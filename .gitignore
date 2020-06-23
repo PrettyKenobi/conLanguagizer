@@ -56,4 +56,4 @@ docs/__pycache__
 #Personal files and settings
 .vscode/extensions.json
 .vscode/settings.json
-vagrant/.vagrant/*
+vagrant/*
