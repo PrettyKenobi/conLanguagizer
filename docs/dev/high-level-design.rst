@@ -11,13 +11,13 @@ Dictionary
 
 * Document
 
-  * Phonology using IPA_
+  * Phonetic inventory using IPA_
 
   * Able to include language's orthography
 
     * User can define their language's version of alphabetical-order
 
-  * Word pronunciation, definitions, and their part of speech
+  * Word pronunciation, definitions, and their syntax
 
     * Written in language's orthography if applicable
 
@@ -29,7 +29,7 @@ Dictionary
 
   * Pronunciation
 
-  * Part of speech
+  * Syntax
 
 * Display added words in some sort of table or list
 
@@ -73,7 +73,7 @@ Features for Demo
 Dictionary Demo
 ~~~~~~~~~~~~~~~~
 
-* Phonology
+* Phonetic Inventory
 
 * Word definitions
 
@@ -102,6 +102,13 @@ Grammar Demo
 
 * Able to apply a selected rule to a word defined in the language's dictionary
 
+Other
+~~~~~
+
+The app will be fully accessible per the checklist from a11y_. Part of this is done with the ESLint plugin jsx-a11y_.
+
 .. _document-driven-development: https://gist.github.com/zsup/9434452
 .. _test-driven-development: https://www.agilealliance.org/glossary/tdd/#q=~(infinite~false~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'tdd))~searchTerm~'~sort~false~sortDirection~'asc~page~1)
 .. _IPA: https://en.wikipedia.org/wiki/International_Phonetic_Alphabet
+.. _a11y: https://a11yproject.com/checklist/
+.. _jsx-a11y: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y
