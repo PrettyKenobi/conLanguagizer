@@ -52,10 +52,11 @@ npm-debug.log.*
 # Documentation directories created when running sphinx
 docs/_build
 docs/__pycache__
+docs/env
 
 #Personal files and settings
 .vscode/extensions.json
 .vscode/launch.json
 .vscode/settings.json
-dos/.vscode/*
+docs/.vscode/*
 vagrant/*
