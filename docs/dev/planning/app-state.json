@@ -1,0 +1,32 @@
+{
+  "phoneticInventory" : {
+    "byId" : {
+      "phone1" : {
+        "id" : "phone1",
+        "ipa" : "fon"
+      }
+    },
+    "allIds" :["phone1", "...", "phonex"]
+  },
+  "words" : {
+    "byId" : {
+      "word1" : {
+        "id" : "word1",
+        "pronunciation" : "pro-nuhn-shi-a-shon",
+        "definition" : "all one string",
+        "syntax" : "string or id of grammar rule"
+      }
+    },
+    "allIds" : ["word1", "...", "wordx"]
+  },
+  "grammarRules" : {
+    "byId" : {
+      "rule1" : {
+        "id" : "rule1",
+        "toMatch" : ["regex1", "...", "regexx"],
+        "transform" : ["Tregex1", "...", "Tregexx"]
+      }
+    },
+    "allIds" : ["rule1", "...", "rulex"]
+  }
+}

@@ -8,7 +8,7 @@ Community Building
 
 Right now, PrettyKenobi is the only leader, which is a lot of work for one person to do. So we need folks to help manage things when it comes to coding and growing and/or moderating the community. Those interested in a leadership role in one or more of these areas should get in contact with Ken via email_.
 
-Contributing to Development
+How Anyone Can Contribute to Development
 ---------------------------
 
 .. - Write instructions on

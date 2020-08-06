@@ -7,7 +7,7 @@ Mechanics
 ---------
 
 Graphic Inserts
-~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~
   We include figures, images, and screenshots when useful. These always include a brief caption and also a description using alternative text. We do this with reStructuredText directives as described here_.
 
 Punctuation

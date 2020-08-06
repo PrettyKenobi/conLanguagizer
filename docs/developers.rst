@@ -1,7 +1,9 @@
 For Developers
 =================
 
-.. .. toctree::
-..   :glob:
+.. toctree::
+  :glob:
 
-..   dev/*
+  dev/*
+  Documentation Outline <dev/planning/documentation-outline>
+

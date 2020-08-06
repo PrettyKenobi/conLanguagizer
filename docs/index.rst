@@ -12,6 +12,8 @@ Welcome to |cla|'s documentation!
 
   For Users <users>
   For Developers <developers>
+  Code of Conduct <CODE_OF_CONDUCT>
+  How to Contribute <contributing>
 
 Features
 --------
