@@ -1,0 +1,126 @@
+Documentation Outline
+=====================
+
+- README
+  - **Type**: page
+  - Project Goals
+    -**Type**: section
+      1. Organize a lexicon and the grammar rules for a constructed language
+      2. Be fully accessible
+    - Link to
+      - *How to Contribute*
+      - *Code of Conduct*
+  - How to Run Yourself
+    - Source Code
+      - PreRequisites
+        - NPM
+        - yarn
+    - Documentation
+      - PreRequisites
+        - Python 3
+        - Sphinx
+
+
+- Code of Conduct
+  - **Type**: page
+
+- How to Contribute
+  - **Type**: page
+  - Link to *Code of Conduct*
+  - Coding
+    - **Type**: section
+    - Pull Requests
+      - Bug fixes
+      - Feature implementation
+    - Code review
+    - Link to *Developer Documentation*
+  - Non-Coding
+    -**Type**: section
+    - Writing and editing documentation
+      - Are we missing a section?
+      - Link to
+        - *How to Make a Pull Request*
+        - *Documentation Style-Guide*
+        - *How to Write Dev Documentation*
+        - *How to Write User Documentation*
+    - UI design
+    - Feature requests
+    - Bug Report
+    - Community building and moderation
+      - Telling others about |cla|
+      - Moderating
+        - Chat
+        - Issues
+
+- Project Philosophies
+  -**Type**: page
+  - Accessability
+    - **Type**: section
+    - Link to a11y
+  - FOSS
+    - Reasoning
+
+- Developer Documentation
+  - **Type**: doc section
+  - Typical Workflow
+    - **Type**: page
+    - Tools of the Trade
+      - **Type**: section
+        - Terminals
+          - **Type**: section
+          - Windows
+            - `cmd.exe`
+            - `Powershell`
+            - `Bash` via WSL
+          - `Bash`
+            - Linux
+            - MacOS
+        - Editors
+          - **Type**: section
+            - Any basic text editors
+              - `Notepad` on Windows
+            - Ones with helpful tools and addons
+              - `Atom`
+              - `VS Code`
+              - `Notepad++`
+              - `Sublime`
+              - `Emacs`
+              - `Vim`
+        - Version Control
+          - git
+            - "Snapshot" of work
+        - Node.js
+          - Javascript framework that can run outside of a web browser
+            - Link to download page
+          - We use `yarn` for package dependency management and running scripts during development
+    - Editing source code
+      - **Type**: section
+      - Forking
+      - Document your changes
+        - Link to
+        - *How to Write Dev Documentation*
+        - *How to Write User Documentation*
+      - Pull Request to merge your change
+        - Link to *How to Make a Pull Request (PR)*
+  - Code Base Basics
+    - **Type**: page
+    - File Structure
+    - React Overview
+      - Link to React's tutorial
+      - Components
+      - Props
+        - App state
+          - Redux Overview
+            - Link to
+              - Redux tutorial
+              - React-Redux tutorial
+    - Link to *What Goes Where*
+  - What Goes Where
+    - **Type**: page
+    - UI visuals
+      - Containersa
+      - Components
+    - Internal logic
+      - Actions
+
+- How to Make a Pull Request (PR)
