@@ -55,8 +55,7 @@
     ]
   },
   "build": {
-    "productName": "ElectronReact",
-    "appId": "org.develar.ElectronReact",
+    "productName": "conLanguagizer",
     "files": [
       "dist/",
       "node_modules/",
@@ -90,8 +89,7 @@
         "deb",
         "rpm",
         "AppImage"
-      ],
-      "category": "Development"
+      ]
     },
     "directories": {
       "buildResources": "resources",
@@ -99,49 +97,30 @@
     },
     "publish": {
       "provider": "github",
-      "owner": "electron-react-boilerplate",
-      "repo": "electron-react-boilerplate",
+      "owner": "PrettyKenobi",
+      "repo": "conLanguagizer",
       "private": false
     }
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/electron-react-boilerplate/electron-react-boilerplate.git"
-  },
-  "author": {
-    "name": "Electron React Boilerplate Maintainers",
-    "email": "electronreactboilerplate@gmail.com",
-    "url": "https://electron-react-boilerplate.js.org"
+    "url": "git+https://github.com/PrettyKenobi/conLanguagizer.git"
   },
   "contributors": [
     {
-      "name": "Vikram Rangaraj",
-      "email": "vikr01@icloud.com",
-      "url": "https://github.com/vikr01"
-    },
-    {
-      "name": "Amila Welihinda",
-      "email": "amilajack@gmail.com",
-      "url": "https://github.com/amilajack"
+      "name": "Ken Bonnstetter",
+      "email": "prettykenobi@gmail.com",
+      "url": "https://github.com/PrettyKenobi"
     }
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/electron-react-boilerplate/electron-react-boilerplate/issues"
+    "url": "git+https://github.com/PrettyKenobi/conLanguagizer/issues"
   },
   "keywords": [
-    "electron",
-    "boilerplate",
-    "react",
-    "redux",
-    "typescript",
-    "ts",
-    "sass",
-    "webpack",
-    "hot",
-    "reload"
+    "conlang"
   ],
-  "homepage": "https://github.com/electron-react-boilerplate/electron-react-boilerplate#readme",
+  "homepage": "https://conlanguagizer.readthedocs.io/en/latest/",
   "jest": {
     "testURL": "http://localhost/",
     "moduleNameMapper": {
