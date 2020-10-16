@@ -76,5 +76,5 @@ html_static_path = ['_static']
 primary_domain = 'js'
 
 rst_prolog = """
-.. |cla| replace:: conLanguagizer
+.. |cla| replace:: ClangBook
 """

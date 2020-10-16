@@ -81,7 +81,7 @@ Dictionary Demo
 
   * In IPA and/or English
 
-* What part of speech a word belongs to
+* Syntax
 
 * Search by definition or pronunciation
 
