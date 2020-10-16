@@ -59,16 +59,16 @@ Sections
 .. code-block:: rest
   :linenos:
 
-  Page Title (H1)
+  Page Title 
   ===============
 
-  Section 1 (H2)
+  Section 1 
   -------------
 
-  Section 1.1 (H3)
+  Section 1.1 
   ~~~~~~~~~~~~~~~
 
-  Section 1.1.1 (H4)
+  Section 1.1.1
   *****************
 
 Lists

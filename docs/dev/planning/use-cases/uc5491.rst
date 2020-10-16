@@ -1,0 +1,27 @@
+Use Case 5491: Create a new language
+====================================
+:Status: Work in Progress
+:Date: 2020-16-10 
+:Author: prettykenobi
+
+.. attention:: Pre-Conditions
+    #. |cla| is already installed
+        - See :doc:`Install ClangBook </uc6713>`
+
+Steps to Success
+----------------
+Actor: User
+
+#. Open |cla|
+
+Extensions
+~~~~~~~~~~
+
+Extension 1:
+
+* Condition: Currently editing a language with |cla|
+
+1a. Save changes *(see :doc:`Save changes to current language </uc5158>`)*
+1b. Create a new file
+    1b.1. From the menu
+    1b.2. Using the keyboard shortcut
