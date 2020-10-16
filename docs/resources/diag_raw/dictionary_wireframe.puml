@@ -1,0 +1,14 @@
+@startsalt
+{+
+{* 三  }
+{/ <u><&book> <b><u>Lexicon | <&pencil> Grammar | + }
+{ . |"Search       " | [<&magnifying-glass>] }
+{}
+{ . | {# <b> Word <&caret-bottom>| <b> Pronunciation | <b>Definitions | <b>Syntax 
+ <color:gray>+ | . | . | . }
+}
+{ . | . | [<&clipboard> Phonetic Inventory] | {[<&plus> New] 
+[<&document> Edit] }
+}
+}
+@endsalt
